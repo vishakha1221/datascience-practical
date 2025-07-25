@@ -55,13 +55,6 @@ Each experiment demonstrates real-world use of data structures and analytical me
 
 ---
 
-## ▶️ How to Run
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/DS-Practicals-2025.git
-   cd DS-Practicals-2025
-
 ## 🙋‍♀️ Author
 
 **Vishakha Chudasama**
